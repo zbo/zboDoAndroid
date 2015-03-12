@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Enter two values and click on Calculate to multiply them.</string>
+    <string name="txtFirstNumber">Enter First Number</string>
+    <string name="txtSecondNumber">Enter Second Number</string>
+    <string name="txtSpace"></string>
+</resources>
