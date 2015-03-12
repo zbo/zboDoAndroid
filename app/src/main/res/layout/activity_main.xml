@@ -67,7 +67,7 @@
         />
 
     <Button
-        android:text="Multiply"
+        android:text="ok"
         android:id="@+id/Button01"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content">
