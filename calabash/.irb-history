@@ -1,0 +1,14 @@
+reinstall_apps
+start_test_server_in_background
+query("TextFiels")
+query("TextField")
+query("EditText")
+query("Button")
+query("Button").size
+query("Button").first.key
+query("Button").first.id
+query("Button").first.keys
+query("*")
+query("*")[0]
+query("* text:'ok'")
+exit
