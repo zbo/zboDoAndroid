@@ -6,4 +6,6 @@
     <string name="txtFirstNumber">Enter First Number</string>
     <string name="txtSecondNumber">Enter Second Number</string>
     <string name="txtSpace"></string>
+    <string name="title_activity_send_message">SendMessageActivity</string>
+    <string name="sendMessagePageTitle">发送消息</string>
 </resources>

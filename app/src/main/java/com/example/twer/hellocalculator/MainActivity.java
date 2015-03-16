@@ -1,6 +1,7 @@
 package com.example.twer.hellocalculator;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -80,5 +81,10 @@ public class MainActivity extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    public void sendMessage(View view){
+        Intent intent=new Intent(this,SendMessageActivity.class);
+        startActivity(intent);
     }
 }
