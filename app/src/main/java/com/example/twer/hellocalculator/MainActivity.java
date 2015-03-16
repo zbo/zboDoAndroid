@@ -87,4 +87,9 @@ public class MainActivity extends ActionBarActivity {
         Intent intent=new Intent(this,SendMessageActivity.class);
         startActivity(intent);
     }
+
+    public void startTutorial(View view) {
+        Intent intent=new Intent(this,TutorialActivity.class);
+        startActivity(intent);
+    }
 }

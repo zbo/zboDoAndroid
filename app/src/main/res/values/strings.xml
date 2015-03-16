@@ -8,4 +8,10 @@
     <string name="txtSpace"></string>
     <string name="title_activity_send_message">SendMessageActivity</string>
     <string name="sendMessagePageTitle">发送消息</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="tu_edit_message">Enter Message</string>
+    <string name="tu_button_send">Send</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="display_activity">display activity</string>
+    <string name="action_search">Search</string>
 </resources>

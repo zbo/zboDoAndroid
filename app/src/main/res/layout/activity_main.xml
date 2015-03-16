@@ -72,13 +72,25 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content">
     </Button>
-    
-    <Button
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="跳转"
-        android:id="@+id/Button02"
-        android:onClick="sendMessage" />
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="跳转"
+            android:id="@+id/Button02"
+            android:onClick="sendMessage" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tutorial"
+            android:id="@+id/Button03"
+            android:onClick="startTutorial" />
+    </LinearLayout>
+
 
 
 </LinearLayout>
