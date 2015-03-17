@@ -1,0 +1,5 @@
+[caps]
+
+platformName = "android"
+app = "/Users/twer/AndroidStudioProjects/HelloCalculator/app/build/outputs/apk/app-debug.apk"
+deviceName = "Android Emulator"

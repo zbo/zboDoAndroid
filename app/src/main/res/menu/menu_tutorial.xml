@@ -5,4 +5,9 @@
         android:icon="@android:drawable/ic_menu_search"
         android:title="@string/action_search"
         yourapp:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/action_email"
+        yourapp:showAsAction="ifRoom"/>
 </menu>
